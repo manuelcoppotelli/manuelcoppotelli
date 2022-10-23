@@ -21,4 +21,4 @@ Follow (and message) me on [Twitter @manuel_coppo](https://twitter.com/manuel_co
 
 ---
 
-![image](https://github.com/manuelcoppotelli/manuelcoppotelli/blob/master/dino.gif)
+[![Manuel Coppotelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelcoppotelli&count_private=true&show_icons=true&theme=transparent)](https://github.com/manuelcoppotelli)
